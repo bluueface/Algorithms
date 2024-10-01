@@ -7,6 +7,6 @@
    "strict": true,
    "skipLibCheck": true,
   },
-  "include": ["ImplementStackUsingQueues"],
+  "include": ["implement-stack-using-queues"],
   "exclude": ["node_modules"]
 }
